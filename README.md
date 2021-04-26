@@ -25,7 +25,12 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][webdevplaylist]
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="Mohamed's GitHub Stats" src="https://github-readme-stats.mohamedEl1.vercel.app/api?username=mohamedEl1&show_icons=true&hide_border=true" />
+
+</details>
 <!--
 **MohamedEl1/MohamedEl1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
