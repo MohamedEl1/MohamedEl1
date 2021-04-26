@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Mohamed
+### Hi there 👋 I'm Mohamed, an inspiring and motivated Software Engineer
 
 - 🔭 I’m currently working on side projects to do with stock investing using React & Python!
 - 👯 I’m looking to collaborate on software projects web/mobile 
