@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mohamed, an inspiring and motivated Software Engineer
 
-- 🔭 I’m currently working on fun side projects to do with stock investing using React & Python!
+- 🔭 I’m currently working on fun side projects using React & Python!
 - 👯 I’m looking to collaborate on software projects web/mobile 
 - 💬 Ask me about my experience and projects
 - 📫 How to reach me: mohamed.abedelhakim@ucdconnect.ie
