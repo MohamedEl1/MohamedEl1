@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Mohamed, an inspiring and motivated Software Engineer
+### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Mohamed, an inspiring and motivated Software Engineer
+
 
 - 🔭 I’m currently working on fun side projects using React & Python!
 - 🌱 I’m currently learning to convert Figma design into React Styled Components
@@ -44,7 +45,7 @@
 
 Here are some ideas to get you started:
 
-
+👋
 - 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with ...
 
