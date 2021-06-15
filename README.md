@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m currently working on fun side projects using React & Python!
-- 🌱 I’m currently learning to convert Figma design into React Styled Components
 - 👯 I’m looking to collaborate on software projects web/mobile 
 - 💬 Ask me about my experience and projects
 - 📫 How to reach me: mohamed.abedelhakim@ucdconnect.ie
